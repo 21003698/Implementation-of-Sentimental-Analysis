@@ -42,6 +42,6 @@ for text, sentiment_score in zip(texts, sentiment_scores):
     print("Compound:", sentiment_score['compound'])
 ```
 ## Output:
-![output](?raw=true)
+https://user-images.githubusercontent.com/94166007/278932241-6023b5b9-f61a-4cd3-a220-bbee503d4884.png
 
 
